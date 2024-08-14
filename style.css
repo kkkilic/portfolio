@@ -1,0 +1,22 @@
+.logo{
+    width: 100px;
+    height: 50px;
+
+}
+.hero h1{
+    font-size: 36px;
+    font-size: border;
+}
+.hero span{
+    color: rgb(45, 45, 218);
+}
+.main{
+    display: flex;
+}
+.hero{
+    width: 50%;
+}
+.resim img{
+    width: 600px;
+    height: auto;
+}
